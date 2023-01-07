@@ -1,0 +1,24 @@
+{
+  "name": "mock-6_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushantkr961/mock-6_api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sushantkr961/mock-6_api/issues"
+  },
+  "homepage": "https://github.com/sushantkr961/mock-6_api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.17.1"
+  }
+}
