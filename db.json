@@ -1,11 +1,11 @@
 {
-  "user": [
+  "users": [
     {
       "id": 1,
-      "email": "sushantonly961@gmail.com",
-      "username": "sk961",
-      "password": "12345",
-      "task": ["eat", "sleep", "code", "repeat", "success"]
+      "username": "sushant",
+      "email": "sushant@gmail.com",
+      "password": "12345"
     }
-  ]
+  ],
+  "tasks": []
 }
